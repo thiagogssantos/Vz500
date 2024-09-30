@@ -1,6 +1,3 @@
-[include mmu/base/*.cfg]
-[include mmu/addons/blobifier.cfg]
-[include mmu/optional/mmu_menu.cfg]
 [mcu]
 serial: /dev/serial/by-id/usb-Klipper_stm32h723xx_10001B001051313236343430-if00
 #####################################################################
